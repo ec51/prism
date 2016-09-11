@@ -1,0 +1,21 @@
+{
+    "name": "ec51/prism",
+    "description": "SDK for ec51 prism platform",
+    "keywords": ["ec51", "prism", "api"],
+    "homepage": "https://github.com/ec51/prism",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sin Cl",
+            "email": "dev@ec51.cn",
+            "homepage": "http://www.ec51.com.cn/"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
